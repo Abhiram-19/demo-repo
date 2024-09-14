@@ -1,4 +1,2 @@
 # Demo
-Some text
-some more.
-I edited it..
+Learning how to use git remotely using this repo
