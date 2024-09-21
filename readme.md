@@ -7,3 +7,4 @@ I have edited this using the git website.
 Adding a line to the readme file
 Adding few more lines but this time from the github website / gui and checking if the changes are reflected in my local machine or not.
 RESOLVED THE MERGE CONFLICT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+I am creating a merge conflict again hehe cuz I dont want peace, I want problems
